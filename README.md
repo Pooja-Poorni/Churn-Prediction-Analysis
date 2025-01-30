@@ -54,6 +54,6 @@ Split the data into train and test sets.
 Explore the data (exploratory data analysis)
 Feature engineering, data cleaning and preprocessing.
 Model training, comparison, feature selection and tuning.
-Final production model testing and evaluation.
+Final prediction model testing and evaluation.
 Conclude and interpret the model results.
-Deploy.
+And then Deployed.
